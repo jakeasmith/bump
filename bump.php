@@ -65,4 +65,5 @@ if ($tagit !== 'y') {
 }
 
 passthru('git tag ' . $bumped_version);
+passthru('git push origin ' . $bumped_version);
 echo $bumped_version . ' has been tagged.' . PHP_EOL;
