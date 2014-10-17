@@ -60,7 +60,7 @@ passthru($cmd);
 
 $tagit = readline('Do you want to create and push a new tag (' . $bumped_version . ') with the above changes? (y/n):');
 if ($tagit !== 'y') {
-	echo 'Its cool. I understand.' . PHP_EOL;
+	echo 'It\'s cool. I understand.' . PHP_EOL;
 	exit;
 }
 
