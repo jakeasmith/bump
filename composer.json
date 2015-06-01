@@ -1,0 +1,13 @@
+{
+    "name": "bump/bump",
+    "description": "A very niavè script for bumping a semver tag in Git.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jake A. Smith",
+            "email": "theman@jakeasmith.com"
+        }
+    ],
+    "require": {}
+}
