@@ -10,5 +10,5 @@
         }
     ],
     "require": {},
-    "bin": ['src/bump']
+    "bin": ["src/bump"]
 }
