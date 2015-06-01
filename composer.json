@@ -9,5 +9,6 @@
             "email": "theman@jakeasmith.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "bin": ['src/bump']
 }
