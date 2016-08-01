@@ -1,7 +1,7 @@
 bump
 ====
 
-A very niavè script for bumping a semver tag in Git.
+A very naive script for bumping a semver tag in Git.
 
 # Installation
 If you have [Composer](https://getcomposer.org/) setup already its as easy as installing Bump globally:
