@@ -13,5 +13,5 @@ Otherwise clone the repo, run `composer install` and it should be available in `
 # Contributing
 All PRs are welcome but you might want to open up an issue to discuss any major changes before putting a lot of time into them.
 
-#Copyright
+# Copyright
 The bump/bump package is copyright © Jake A. Smith and licensed for use under the MIT License (MIT). Please see LICENSE for more information.
